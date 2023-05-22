@@ -1,0 +1,1 @@
+idf_component_register(SRCS "k0gut_main.c" INCLUDE_DIRS ".")
